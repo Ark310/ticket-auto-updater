@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Ticket Auto Updater",
+  "version": "1.0",
+  "description": "Updates fixed fields on ticket edit pages.",
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Ticket Auto Updater"
+  }
+}

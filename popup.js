@@ -1,5 +1,5 @@
 // ------------------------------------------------------------
-// CHANGE THESE FOUR VALUES TO YOUR FIXED DROPDOWN VALUES
+// CONFIGURATION -- Customize these values for your team
 // ------------------------------------------------------------
 // The "value" should match the visible dropdown text as closely as possible.
 //

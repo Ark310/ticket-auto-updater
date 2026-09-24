@@ -1,0 +1,19 @@
+# Packed extension / build output
+*.crx
+*.pem
+*.zip
+dist/
+build/
+node_modules/
+
+# Local config / secrets
+.env
+.env.*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

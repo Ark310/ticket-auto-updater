@@ -74,7 +74,7 @@ History note: never under git. Commits were rebuilt from the original files' mod
 
 ## 🤖 Built with AI
 
-- **Original extension (April 2026):** written with an AI chat assistant (the config comment still gives example values the way a chat answer would). No session logs survive, so there are no session counts.
+- **Original extension (April 2026):** written with ChatGPT (the config comment still gives example values the way a chat answer would). ChatGPT conversation logs were not kept, so there are no session counts.
 - **Claude Code:** the May–June 2026 portfolio pass (placeholder config) and the September 2026 rebuild (dated history, sanitization scan: clean, this README).
 - **Commits:** 4, each with a `Co-Authored-By: Claude` trailer. **Tests:** none. `node --check popup.js` passes.
 

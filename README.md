@@ -8,11 +8,28 @@ A tiny Chrome extension (Manifest V3) that fills the same four fields on a ticke
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?logo=anthropic&logoColor=white)
 
+<!-- showcase:banner:start -->
+> 🧭 Part of **Abdul Raqeeb Khatri's portfolio**: [📂 Hub](https://github.com/Ark310/portfolio) · [🌐 Site](https://ark310.github.io) · [💼 Experience](https://github.com/Ark310/experience)
+<!-- showcase:banner:end -->
+
 ## Overview
 
 Updating a batch of tickets in an older, table-based support portal meant opening each one and setting the same dropdowns to the same values by hand, dozens of times. This extension does that part. You open the ticket tabs, pick one in the popup, and choose **Fill only** to check the result or **Fill + press Update** to save it.
 
 It needs no portal-specific IDs. Fields are found by their visible label, so it works on classic `<td>Label:</td><td><select>` layouts as well as proper `<label for>` markup.
+
+<!-- showcase:why-impact:start -->
+## 💡 Why I Built It
+
+Updating a batch of tickets meant setting the same four dropdowns to the same values by hand, dozens of times.
+
+## 📈 Impact
+
+- Repetitive field updates became a two-click action per ticket.
+- Fields are found by their visible label instead of generated IDs, so it survives portal changes and works on other forms.
+
+`4 fields per click` · `0 portal IDs needed`
+<!-- showcase:why-impact:end -->
 
 ## Features
 
@@ -81,6 +98,14 @@ History note: never under git. Commits were rebuilt from the original files' mod
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+<!-- showcase:footer:start -->
+---
+
+<p align="center"><a href="https://github.com/Ark310/portfolio">← Back to the portfolio hub</a> · <a href="https://ark310.github.io">Interactive site</a> · <a href="https://github.com/Ark310/experience">Experience</a></p>
+
+**Related projects:** [Report Downloader](https://github.com/Ark310/report-downloader) · [Incident Report Scraper](https://github.com/Ark310/incident-report-scraper) · [Portal Account De-Activator](https://github.com/Ark310/portal-account-deactivator)
+<!-- showcase:footer:end -->
 
 ## Author
 
